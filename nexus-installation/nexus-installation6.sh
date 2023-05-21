@@ -54,7 +54,7 @@ echo "end of nexus installation"
 
 =====================
 access nexus on the browser
-34.229.62.93:8081
+IPAddress:8081
 userName  --- ADMIN
 Password   ADMIN123
 
