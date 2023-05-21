@@ -4,7 +4,7 @@
 # Your server must have atleast 4GB of RAM
 # become the root / admin user via: sudo su -
 #1. Create nexus user to manage the nexus
-# As a good security practice, Nexus is not advised to run nexus service as a root user, so create a new user called nexus and grant sudo access to manage nexus services as follows.
+# As a good security practice, it is not advised to run nexus service as a root user, so create a new user called nexus and grant sudo access to manage nexus services as follows.
 
 useradd nexus
 
